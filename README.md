@@ -8,7 +8,7 @@
 - 🔭 双非菜鸡javaer
 - 🌱 冲冲冲！！！！！！
 - 😄 花有重开日，人无再少年！
-- 🍟 up！up! up!
+- 🍟 up！ up! up!
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mianbaosao&show_icons=true&theme=transparent)    
