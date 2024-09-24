@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" width="100" height="70">  
 </p>
 
-- 🔭 双非菜鸡javaer
+- 🔭 双非菜鸟javaer
 - 🌱 冲冲冲！！！！！！
 - 😄 花有重开日，人无再少年！
 - 🍟 up! up! up!
