@@ -7,12 +7,13 @@
 </p>
 <p align="left">
     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" width="100" height="70">  
-</p>
-
 -🔭 Ordinary Javaer from a non-elite school
 -🌱 Push forward with all my might!
 -😄 Flowers may bloom again, but youth comes only once!
 -🍟 up! up! up!
+
+</p>
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mianbaosao&show_icons=true&theme=transparent)    
