@@ -1,6 +1,6 @@
 ## Hi !!👋👋👋👋
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Here%20is%20Bread!%22);欢迎来到面包GitHub首页!&center=true&size=27"></h1>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,docker,nodejs,vue,git,jenkins,linux&theme=light"/>
   </a>
